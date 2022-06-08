@@ -49,8 +49,8 @@ li {
     display: flex;
     justify-content: space-between;
     padding: 70px;
-    align-items: center;
-    border: 1px solid red;
+    align-items: flex-start;
+    
 
 }
 
@@ -93,4 +93,8 @@ ul{
     
    justify-content: center;
     
+}
+
+.phone{
+    margin-right: 100px;
 }
